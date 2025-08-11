@@ -2,9 +2,7 @@
 
 This interactive dashboard provides an investor-focused view of vehicle registration trends in India, built with Python and Streamlit. It allows for dynamic filtering by date range and vehicle category to analyze market share and performance trends.
 
-**Video Walkthrough:** [**INSERT YOUR VIDEO WALKTHROUGH LINK HERE**]
-
-**Live Application Link:** [**INSERT YOUR DEPLOYED APP LINK HERE, E.G., FROM STREAMLIT COMMUNITY CLOUD**]
+**Live Application Link:** [**(https://vehicle-registration-insights-dashboard.streamlit.app/)**]
 
 ---
 
